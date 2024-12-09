@@ -8,7 +8,7 @@
 
 <p>Programming Language: Python
   
-# Libraries:
+ Libraries:
 
 sklearn for machine learning and text vectorization.
 
@@ -23,7 +23,9 @@ Tools: Jupyter Notebook, Visual Studio Code
 <h3>Installation</h3>
 
 Clone the repository: git clone https://github.com/Dushyant-codes/P3-Spam-Mail-Classification-by-NLP-and-ML.git
+
 Navigate to the project directory: cd P3-Spam-Mail-Classification-by-NLP-and-ML
+
 Install dependencies: pip install -r requirements.txt
 
 

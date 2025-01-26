@@ -29,3 +29,6 @@ Navigate to the project directory: cd P3-Spam-Mail-Classification-by-NLP-and-ML
 Install dependencies: pip install -r requirements.txt
 
 
+![Spam-Email](https://github.com/user-attachments/assets/6d458388-31e7-4bfc-bce4-b38a630c43c3)
+
+
